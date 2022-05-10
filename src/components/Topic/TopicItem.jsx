@@ -9,7 +9,7 @@ const TopicItem = ({ title, content, imgpath }) => {
         <div className="text-xl font-semibold tracking-wider">{title}</div>
         <div className="py-4">{content}</div>
         <div className="flex  text-xl py-2 text-[#0E79BD]">
-          <a href="" className="flex justify-center items-center">
+          <a href="#" className="flex justify-center items-center">
             <div className="">READ MORE</div>
             <IoIosArrowForward className="text-3xl" />
           </a>

@@ -27,7 +27,7 @@ const CategorySection = () => {
       <div className="flex justify-between space-x-4">
         {data.map((item) => {
           return (
-            <a href="">
+            <a href="#">
               <div className="border flex flex-col justify-center items-center border-2 p-4 bg-white shadow-md  rounded-3xl">
                 <div>
                   <img src={item.imgpath} alt="" srcset="" />

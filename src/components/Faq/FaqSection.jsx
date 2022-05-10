@@ -7,7 +7,7 @@ const FaqSection = () => {
   const [questions] = useState(FaqData);
 
   return (
-    <div>
+    <div id="faqs">
       <div className="font-Roboto py-10 text-center font-bold text-3xl">
         FAQ's
       </div>

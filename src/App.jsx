@@ -34,6 +34,7 @@ function App() {
             </div>
             <div className="flex justify-center">
               <iframe
+                title="myframe"
                 width="1180"
                 height="560"
                 src="https://www.youtube.com/embed/OPY18qqinh4"

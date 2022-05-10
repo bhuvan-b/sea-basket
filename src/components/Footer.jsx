@@ -20,14 +20,14 @@ const Footer = () => {
 
         <div className="flex sm:space-x-8 font-Roboto font-medium text-sm lg:text-md">
           <div className="flex flex-col space-y-4">
-            <a href=""> Support </a>
-            <a href="">About Us</a>
-            <a href="">Privacy Policy</a>
+            <a href="#"> Support </a>
+            <a href="#">About Us</a>
+            <a href="#">Privacy Policy</a>
           </div>
           <div className="flex flex-col space-y-4">
-            <a href="">Terms & Conditions</a>
-            <a href="">Return & Refund Policy</a>
-            <a href="">Shipping & Delivery Policy</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Return & Refund Policy</a>
+            <a href="#">Shipping & Delivery Policy</a>
           </div>
         </div>
       </div>
